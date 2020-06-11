@@ -1,0 +1,48 @@
+body {
+  background: url(167.jpg);
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  color: #FAFAD2;
+  line-height: 150%;
+}
+
+h1 {
+  color: #FAFAD2;
+  background-color: #202020;
+  margin: 0;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 28px;
+}
+
+.card-body {
+  background-color: #202020;
+}
+
+.card-title {
+  color: yellow
+}
+
+h2 {
+  font-size: 24px
+}
+
+/* make all links red */
+
+a {
+  color: red;
+}
+
+/* container holding all info */
+/* set width, take away any margins and auto center */
+
+.container {
+  padding: 0;
+  margin: 0 auto;
+  justify-content: center
+}
+
